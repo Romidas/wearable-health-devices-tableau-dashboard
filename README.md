@@ -73,9 +73,13 @@ https://public.tableau.com/app/profile/romi.das/viz/ComparativeAnalysisofWearabl
 
 ## Dataset
 
-Source: Kaggle - Wearable Health Devices Performance Dataset
+The dataset used in this project was obtained from the Wearable Health Device Performance Data 2025 dataset on Kaggle.
 
-This project uses a publicly available dataset for educational and portfolio purposes.
+https://www.kaggle.com/datasets/pratyushpuri/wearable-health-devices-performance-analysis/data
+
+The data was cleaned, transformed, and organized into multiple fact tables using Power Query before building the dashboard.
+
+This project is intended for educational and portfolio purposes.
 
 ---
 
