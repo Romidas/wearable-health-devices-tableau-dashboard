@@ -51,12 +51,6 @@ This project presents an interactive Tableau dashboard for comparing wearable he
 
 ---
 
-## Dataset
-
-Wearable Health Devices Performance Dataset (June 2025)
-
----
-
 ## Tableau Public Dashboard
 
 https://public.tableau.com/app/profile/romi.das/viz/ComparativeAnalysisofWearableHealthDevices/Dashboard1
