@@ -50,7 +50,7 @@ Wearable Health Devices Performance Dataset (June 2025)
 
 ## Tableau Public Dashboard
 
-Paste your Tableau Public link here.
+https://public.tableau.com/app/profile/romi.das/viz/ComparativeAnalysisofWearableHealthDevices/Dashboard1
 
 ---
 
